@@ -41,7 +41,7 @@ Então receberei o código de retorno "200"
 E terei uma consulta realizada com sucesso
 
 
-Evidencia Response body
+# 1. Evidencia Response body
 
 
 {
@@ -69,7 +69,7 @@ Então receberei o response status de 404
 E terei uma consulta com erro
 
 
-Evidencia Response body
+# 2.Evidencia Response body
 
 
 404
@@ -78,5 +78,4 @@ Error: response status is 404
 
 
 Response body
-Download
 {}
